@@ -1,27 +1,6 @@
 {
   "orgName": "workshops",
   "adminEmail": "eltoroit@mailinator.com",
-  "edition": "Developer",
-  "settings": {
-    "lightningExperienceSettings": {
-      "enableS1DesktopEnabled": true
-    },
-    "mobileSettings": {
-      "enableS1EncryptedStoragePref2": false
-    },
-    "securitySettings": {
-      "passwordPolicies": {
-        "enableSetPasswordInApi": true
-      }
-    }
-  }
-}
-
-
-
-{
-  "orgName": "workshops",
-  "adminEmail": "eltoroit@mailinator.com",
   "template": "0TT1J000003wA92",
   "settings": {
     "lightningExperienceSettings": {
